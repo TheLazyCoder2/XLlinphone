@@ -1,2 +1,2 @@
 # XLlinphone
-linphone
+因为GitHub文件大小限制，linphone sdk无法上传，所以只上传了我使用的manager，sdk会在稍后传到百度云，有需要的可以去我的百度云下载，这样manager和sdk一定是配套的。
