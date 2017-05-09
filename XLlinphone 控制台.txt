@@ -1,0 +1,70 @@
+2017-05-09 15:55:45.987756 XLlinphone[349:18112] [DYMTLInitPlatform] platform initialization successful
+2017-05-09 15:55:46.122548 XLlinphone[349:18010] Can't find "(null)": (null)
+2017-05-09 15:55:46.126695 XLlinphone[349:18010] onGlobalStateChanged: 1 (message: Starting up)
+2017-05-09 15:55:46.192596 XLlinphone[349:18010] [MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2017-05-09 15:55:46.196248 XLlinphone[349:18010] [MC] Reading from public effective user settings.
+2017-05-09 15:55:47.722345 XLlinphone[349:18010] onConfiguringStatusChanged: LinphoneConfiguringSkipped
+2017-05-09 15:55:47:722 ortp-warning-Codec SILK/16000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:722 ortp-warning-Codec iLBC/8000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:722 ortp-warning-Codec AMR/8000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:722 ortp-warning-Codec AMR-WB/16000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:723 ortp-warning-Codec G729/8000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:723 ortp-warning-Codec iSAC/16000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:723 ortp-warning-Codec SILK/8000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:723 ortp-warning-Codec SILK/12000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47:723 ortp-warning-Codec SILK/24000 read from conf is not supported by mediastreamer2, ignored.
+2017-05-09 15:55:47.728424 XLlinphone[349:18010] onGlobalStateChanged: 2 (message: Ready)
+2017-05-09 15:55:47.728548 XLlinphone[349:18010] Create linphonecore 0x103014e00
+2017-05-09 15:55:47:736 ortp-error-Error in connect: No route to host
+2017-05-09 15:55:47.744345 XLlinphone[349:18010] New registration state: LinphoneRegistrationProgress (message: Registration in progress)
+2017-05-09 15:55:47.744942 XLlinphone[349:18010] ====LinphoneRegistrationProgress=====message=Unknown error
+2017-05-09 15:55:51.752500 XLlinphone[349:18010] Proxy config  NOT configured for push notifications
+2017-05-09 15:55:51.752742 XLlinphone[349:18010] New registration state: LinphoneRegistrationNone (message: Registration disabled)
+2017-05-09 15:55:51.753459 XLlinphone[349:18010] ====LinphoneRegistrationNone====message=Unknown error
+2017-05-09 15:55:51.850483 XLlinphone[349:18010] New registration state: LinphoneRegistrationProgress (message: Registration in progress)
+2017-05-09 15:55:51.852479 XLlinphone[349:18010] ====LinphoneRegistrationProgress=====message=Unknown error
+2017-05-09 15:55:51:875 ortp-warning-nothing to migrate, skipping...
+2017-05-09 15:55:51.878943 XLlinphone[349:18010] AP Wifi: {
+    BSSID = "28:2c:b2:af:29:1e";
+    SSID = "TP-LINK_VC";
+    SSIDDATA = <54502d4c 494e4b5f 5643>;
+}
+2017-05-09 15:55:51.880869 XLlinphone[349:18010] Network connection flags:
+2017-05-09 15:55:51.881417 XLlinphone[349:18010] New registration state: LinphoneRegistrationNone (message: Registration impossible (network down))
+2017-05-09 15:55:51.881815 XLlinphone[349:18010] ====LinphoneRegistrationNone====message=Unknown error
+2017-05-09 15:55:51:888 ortp-warning-Discarding stateless response [100]
+2017-05-09 15:55:51.896603 XLlinphone[349:18010] New registration state: LinphoneRegistrationProgress (message: Registration in progress)
+2017-05-09 15:55:51.896925 XLlinphone[349:18010] ====LinphoneRegistrationProgress=====message=Unknown error
+2017-05-09 15:55:51.896986 XLlinphone[349:18010] Network connectivity changed to type [wifi]
+2017-05-09 15:55:51.897236 XLlinphone[349:18010] Setting default camera [AV Capture: com.apple.avfoundation.avcapturedevice.built-in_video:1]
+2017-05-09 15:55:51.898096 XLlinphone[349:18010] Linphone [3.10.2-579-g1c92cdd]  started on [iPhone]
+2017-05-09 15:55:51:903 ortp-warning-Discarding stateless response [200]
+2017-05-09 15:55:51:909 ortp-warning-Discarding stateless response [100]
+2017-05-09 15:55:51:930 ortp-warning-Discarding stateless response [401]
+2017-05-09 15:55:52.032236 XLlinphone[349:18010] New registration state: LinphoneRegistrationOk (message: Registration successful)
+2017-05-09 15:55:52.032649 XLlinphone[349:18010] ====LinphoneRegistrationOk=====message=Unknown error
+2017-05-09 15:55:52.037489 XLlinphone[349:18010] ====通话已呼出====message=Starting outgoing call
+2017-05-09 15:55:52.153727 XLlinphone[349:18135] Current audio route is [ReceiverAndMicrophone]
+2017-05-09 15:55:52.160188 XLlinphone[349:18010] ====通话状态更新====message=Outgoing call in progress
+2017-05-09 15:55:52.160332 XLlinphone[349:18010] 拨打成功
+2017-05-09 15:55:53:282 ortp-warning-MSFilePlayer[0x17013a680]: failed to open ./share/sounds/linphone/ringback.wav: No such file or directory
+2017-05-09 15:55:53.282948 XLlinphone[349:18010] ====通话状态更新====message=Remote ringing
+2017-05-09 15:55:55:354 ortp-warning-No matching stream for 1
+2017-05-09 15:55:55.419645 XLlinphone[349:18010] Adding CT call center listener [0x170259560]
+2017-05-09 15:55:55.420408 XLlinphone[349:18010] ====通话已建立连接=====message=Connected
+2017-05-09 15:55:55:434 ortp-error-no such method on filter MSAUWrite, fid=16394 method index=2
+2017-05-09 15:55:55.435344 XLlinphone[349:18010] ====通话状态更新====message=Streams running
+2017-05-09 15:55:55.802614 XLlinphone[349:18135] Current audio route is [ReceiverAndMicrophone]
+2017-05-09 15:55:55:883 ortp-warning-MSAudio MSTicker: We are late of 434 miliseconds.
+2017-05-09 15:55:55:898 ortp-warning-we are at least 200ms late, bufferizer sise is 22886 bytes in framezize is 1114 bytes
+2017-05-09 15:55:59.503221 XLlinphone[349:18010] Removing CT call center listener [0x170259560]
+2017-05-09 15:55:59.529817 XLlinphone[349:18135] Current audio route is [ReceiverAndMicrophone]
+2017-05-09 15:55:59.538537 XLlinphone[349:18010] ====通话结束LinphoneCallEnd=====message=Call ended
+2017-05-09 15:55:59.539223 XLlinphone[349:18135] Current audio route is [ReceiverAndMicrophone]
+2017-05-09 15:55:59.549445 XLlinphone[349:18135] Current audio route is [ReceiverAndMicrophone]
+2017-05-09 15:55:59.566428 XLlinphone[349:18010] ====通话结束LinphoneCallReleased====message=Call released
+2017-05-09 15:55:59.569050 XLlinphone[349:18010] New registration state: LinphoneRegistrationProgress (message: Service unavailable, retrying)
+2017-05-09 15:55:59.569361 XLlinphone[349:18010] ====LinphoneRegistrationProgress=====message=Cannot reach the server: either it is an invalid address or it may be temporary down.
+2017-05-09 15:55:59:571 ortp-error-Error in connect: No route to host
+2017-05-09 15:55:59:610 ortp-warning-Discarding stateless response [100]
+2017-05-09 15:55:59:629 ortp-warning-Discarding stateless response [200]
